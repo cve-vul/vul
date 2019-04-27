@@ -1,7 +1,7 @@
-#Background administrator password reset vulnerability
+# Background administrator password reset vulnerability
 
 ---
-##vuln in /include/web_check.php
+## vuln in /include/web_check.php
 ![a](https://upload-images.jianshu.io/upload_images/703764-605e3cc2ecb664f6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **In line 54 of the file, three variables are Judge whether it is empty; test_input and verify_str are keywords to detect whether the string has SQL and XSS. Let's ignore it here.**
