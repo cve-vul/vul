@@ -1,9 +1,9 @@
 # FTPShell Server 6.83  -- Denial of Service
 
-Discoverer: leiothrix
-Discovery time: 2019/4/27
-Tested Version: 6.83
-Software Link: http://www.ftpshell.com/downloadserver.htm
+Discoverer: leiothrix  
+Discovery time: 2019/4/27  
+Tested Version: 6.83  
+Software Link: http://www.ftpshell.com/downloadserver.htm  
 
 ```
 Steps to exploit:
