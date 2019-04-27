@@ -7,13 +7,12 @@ Software Link: http://www.ftpshell.com/downloadserver.htm
 
 ```
 Steps to exploit:
-1.Run Python Code
-2.Open the txt file and copy content to clipboard
 1.Open FTPShell Server
 2.Select "Manage FTP Accounts"
 3.Select "Configure accounts..."
 4.Select "Add path" and in "Virtual Path Mapping" Paste Clipboard
-5.Click on "OK"
+5.Input POC 417*A
+6.Click on "OK"
 ```
 
 POC:
