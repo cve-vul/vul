@@ -22,4 +22,4 @@ POC:
 Result map:
 ![图片](https://github.com/cve-vul/vul/blob/master/FTPShell/a.png)
 
-![图片](https://github.com/cve-vul/vul/blob/master/FTPShell/a.png)
+![图片](https://github.com/cve-vul/vul/blob/master/FTPShell/b.png)
