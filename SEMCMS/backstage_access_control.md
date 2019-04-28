@@ -4,7 +4,7 @@
 ![f](https://github.com/cve-vul/vul/blob/master/SEMCMS/f.png)
 **Function checkuser is Determine whether the user is logged in or not**
 
-**In 187 line**
+**In line 187**
 ```
 $query=$db_conn->query("select * from sc_user where user_admin='$cookieuseradmin' and user_ps='$cookieuserpass'");
 ```
